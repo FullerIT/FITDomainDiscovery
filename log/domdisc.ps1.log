@@ -1,0 +1,24 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20210922123051
+Username: FULLERCOMPUTER\pellis
+RunAs User: FULLERCOMPUTER\pellis
+Configuration Name: 
+Machine: FITWIZARD (Microsoft Windows NT 10.0.19043.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 7148
+PSVersion: 5.1.19041.1151
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.1151
+BuildVersion: 10.0.19041.1151
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\pellis\Dropbox\scripts\Work\gitrepo\FITDomainDiscovery\log\domdisc.ps1.log
+PS>TerminatingError(Remove-PSSession): "Cannot validate argument on parameter 'Id'. The argument is null. Provide a valid value for the argument, and then try running the command again."
+**********************
+Windows PowerShell transcript end
+End time: 20210922123054
+**********************
