@@ -4,7 +4,7 @@
 .SYNOPSIS
   FIT Domain Discovery
 .DESCRIPTION
-  <Brief description of script>
+  Add domain and it will open 5 tabs in browser with data regarding the domain
 .PARAMETER <Parameter_Name>
     <Brief description of parameter input required. Repeat this attribute if required>
 .INPUTS
@@ -12,13 +12,13 @@
 .OUTPUTS
   <Outputs if any, otherwise state None - example: Log file stored in C:\Windows\Temp\<name>.log>
 .NOTES
-  Version:        1.0
-  Author:         <Name>
-  Creation Date:  <Date>
+  Version:        2021.09.22.01
+  Author:         Phil Ellis
+  Creation Date:  2021-09-22
   Purpose/Change: Initial script development
   
 .EXAMPLE
-  <Example goes here. Repeat this attribute for more than one example>
+  Just run it.
 #>
 <#End Header#>
 
